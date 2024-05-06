@@ -40,6 +40,7 @@
   <a href="https://www.php.net" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
+  <a href="https://vuejs.org/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="vuejs" width="40" height="40"/> </a>
   <a href="https://laravel.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/800px-Laravel.svg.png" alt="laravel" width="40" height="40"/> </a>
   <a href="https://pestphp.com/" target="_blank"> <img src="https://avatars.githubusercontent.com/u/62078253?s=200&v=4" alt="Pestphp" width="40" height="40"/> </a>
   <a href="https://mailtrap.io/" target="_blank"> <img src="https://mailtrap.io/wp-content/uploads/2018/11/cropped-512px-mailtrap-logo-1.png" alt="mailtrap" width="40" height="40"/> </a>
