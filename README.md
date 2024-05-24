@@ -56,6 +56,7 @@
   <a href="https://www.mysql.com/" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.postman.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/postman.svg" alt="Postman" width="40" height="40"/> </a>
   <a href="https://pptr.dev/" target="_blank"> <img src="https://user-images.githubusercontent.com/10379601/29446482-04f7036a-841f-11e7-9872-91d1fc2ea683.png" alt="Puppeteer" width="40" height="40"/> </a>
+  <a href="https://www.selenium.dev/" target="_blank"> <img src="https://th.bing.com/th/id/R.34966ddf16dbd5b4740f20355e45af3b?rik=Zv%2f%2bNY7iaLmlXw&pid=ImgRaw&r=0" alt="Selenium" width="40" height="40"/> </a>
   <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40"/> </a>
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubontu" width="40" height="40"/> </a>
   <a href="https://xdebug.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Xdebug_Logo.svg/1280px-Xdebug_Logo.svg.png" alt="Xbebug" width="60" height="30"/> </a>
