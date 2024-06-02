@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zahin</h1>
 <h3 align="center">An enthusiastic software engineer from Bangladesh.</h3>
-<img align="center" alt="Coding a man" src="https://visme.co/blog/wp-content/uploads/2020/02/header.gif" alt="">
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
