@@ -1,8 +1,40 @@
 <h1 align="center">Hi 👋, I'm Zahin</h1>
-<h3 align="center">An enthusiastic software engineer from Bangladesh.</h3>
+<h3 align="center">Passionate Software Engineer from Bangladesh,<br>Dedicated to Innovating and Empowering Through Technology</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<p align="center">
+  <!-- Frontend Development -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vue,vuetify"/>
+
+  <!-- Design and Prototyping -->
+  <img src="https://skillicons.dev/icons?i=figma,ps"/>
+
+  <!-- Version Control -->
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab"/>
+
+  <!-- Backend Development -->
+  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel"/>
+
+  <!-- Database -->
+  <img src="https://skillicons.dev/icons?i=mysql,firebase"/>
+
+  <!-- Tools -->
+  <img src="https://skillicons.dev/icons?i=postman,vscode,visualstudio,powershell"/>
+
+  <!-- Deployment -->
+  <img src="https://skillicons.dev/icons?i=vercel,netlify"/>
+
+  <!-- Programming Languages -->
+  <img src="https://skillicons.dev/icons?i=py,c,cs,cpp"/>
+
+  <!-- Platforms -->
+  <img src="https://skillicons.dev/icons?i=windows,linux"/>
+
+  <!-- Miscellaneous -->
+  <img src="https://skillicons.dev/icons?i=codepen,devto,discord,selenium,vite"/>
+</p>
+
+<!-- <p align="left">
   <a href="https://code.visualstudio.com/" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="VS Code" width="40" height="40"/> </a>
   <a href="https://www.cpp.net" target="_blank" > <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/800px-ISO_C%2B%2B_Logo.svg.png" alt="cpp" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
@@ -28,7 +60,7 @@
   <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="Linux" width="40" height="40"/> </a>
   <a href="https://ubuntu.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9e/UbuntuCoF.svg" alt="Ubontu" width="40" height="40"/> </a>
   <a href="https://xdebug.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Xdebug_Logo.svg/1280px-Xdebug_Logo.svg.png" alt="Xbebug" width="60" height="30"/> </a>
-</p>
+</p> -->
 
 <p align="center">📌 Know more about me https://IsHereZahin.bio.link/</p>
 
