@@ -2,7 +2,7 @@
 <h3 align="center">Passionate Software Engineer from Bangladesh,<br>Dedicated to Innovating and Empowering Through Technology</h3>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="center">
+<p align="left">
   <!-- Frontend Development -->
   <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vue,vuetify"/>
 
