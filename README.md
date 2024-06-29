@@ -62,6 +62,9 @@
   <a href="https://xdebug.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Xdebug_Logo.svg/1280px-Xdebug_Logo.svg.png" alt="Xbebug" width="60" height="30"/> </a>
 </p> -->
 
-<p align="center">📌 Know more about me https://IsHereZahin.bio.link/</p>
+<h2 align="center">📌 Know more about me on my <a href="https://isherezahin.netlify.app/">Portfolio</a></h2>
+
+
+
 
 
