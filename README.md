@@ -13,7 +13,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,gitlab"/>
 
   <!-- Backend Development -->
-  <img src="https://skillicons.dev/icons?i=nodejs,php,laravel"/>
+  <img src="https://skillicons.dev/icons?i=php,laravel"/>
 
   <!-- Database -->
   <img src="https://skillicons.dev/icons?i=mysql,firebase"/>
