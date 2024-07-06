@@ -4,7 +4,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Frontend Development -->
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vue,vuetify"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,vue"/>
 
   <!-- Design and Prototyping -->
   <img src="https://skillicons.dev/icons?i=figma,ps"/>
@@ -31,7 +31,7 @@
   <img src="https://skillicons.dev/icons?i=windows,linux"/>
 
   <!-- Miscellaneous -->
-  <img src="https://skillicons.dev/icons?i=codepen,devto,discord,selenium,vite"/>
+  <img src="https://skillicons.dev/icons?i=selenium"/>
 </p>
 
 <!-- <p align="left">
