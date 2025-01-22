@@ -15,7 +15,7 @@
 
 <h3 align="left">Technologies & Tools I Work With:</h3>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,laravel,vue,react,figma,ps,git,github,gitlab,php,mysql,firebase,postman,vscode,visualstudio,powershell,vercel,netlify,py,c,cs,cpp,windows,linux,selenium" alt="Technologies and Tools" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,bootstrap,laravel,vue,react,figma,git,github,php,mysql,postman,vscode,vercel,netlify,py,selenium" alt="Technologies and Tools" />
 </p>
 
 <h4 align="center">📌 Check out my <a href="https://isherezahin.vercel.app/">Portfolio</a> to explore my projects and journey!</h4>
